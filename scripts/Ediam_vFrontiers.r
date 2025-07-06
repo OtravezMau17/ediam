@@ -328,3 +328,34 @@ out$Utility.Consumer.S<-ifelse(out$time<(EndTime*0.83),
                     1*(sum(as.numeric(out$Utility.Consumer_N))+sum(as.numeric(out$Utility.Consumer_S)))
   					))
 }
+
+
+# In order to plot we need to combine (for Tableau)
+# Directory where outputs are stored
+dir.output <- paste0(root, "output/")
+
+# Load each output CSV and label with scenario
+df1 <- read.csv(paste0(dir.output, "output_run_14893.csv"))
+df1$Scenario <- "Intergenerational solidarity"
+
+df2 <- read.csv(paste0(dir.output, "output_run_14877.csv"))
+df2$Scenario <- "Pragmatic cooperation with efficient transition"
+
+df3 <- read.csv(paste0(dir.output, "output_run_18240.csv"))
+df3$Scenario <- "Myopic with strong subsidies"
+
+# Combine all into one dataframe
+combined_outputs <- rbind(df1, df2, df3)
+
+# Optional: Ensure scenario is a factor with preferred order
+combined_outputs$Scenario <- factor(combined_outputs$Scenario,
+                                    levels = c("Intergenerational solidarity",
+                                               "Pragmatic cooperation with efficient transition",
+                                               "Myopic with strong subsidies"))
+
+# Write to CSV for Tableau
+write.csv(combined_outputs,
+          file = paste0(dir.output, "combined_outputs.csv"),
+          row.names = FALSE)
+
+cat("Combined output successfully written to: ", paste0(dir.output, "combined_outputs.csv"), "\n")
