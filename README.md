@@ -8,6 +8,7 @@ This repository contains results from a calibration exercise using the Explorato
 EDIAM builds on the foundational work of integrated assessment modeling  while explicitly incorporating exploratory scenarios and Robust Decision Making (RDM) principles, as described in:
 
 - Molina-Pérez, E., Keenan, J. M., & Lempert, R. J. (2020). A dynamic exploratory model for climate policy design under uncertainty. Environmental Modelling & Software, 131, 104778.
+- Acemoglu, D., Aghion, P., Bursztyn, L., & Hemous, D. (2012). The Environment and Directed Technical Change. American Economic Review, 102(1), 131–166. https://doi.org/10.1257/aer.102.1.131
 
 Experiment Description
 This experiment explores three distinct climate policy pathways, each characterized by different assumptions about two key parameters:
