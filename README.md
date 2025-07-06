@@ -18,7 +18,7 @@ This experiment explores three distinct climate policy pathways, each characteri
 
 | Run ID | ρ (Intertemporal Myopia) | ε (Clean Tech Efficiency) | Descriptive Scenario Name                                | Economic Interpretation                                                                                                                   |
 | ------ | ------------------------ | ------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 14893  | 0.001 (**Very Low**)     | 3 (**Moderate**)          | **Intergenerational Solidarity with Gradual Transition** | Strong concern for future generations. Moderate—but effective—transition to clean technologies.                                           |
+| 14893  | 0.001 (**Very Low**)     | 3 (**Moderate**)          | **Intergenerational Solidarity with Gradual Transition** | Strong concern for future generations. Moderate but effective transition to clean technologies.                                           |
 | 14877  | 0.009 (**Moderate**)     | 6.51 (**High**)           | **Pragmatic Collaboration with Efficient Transition**    | Some preference for present-day benefits, but effective mitigation is achieved through technological learning.                            |
 | 18240  | 0.015 (**High**)         | 10 (**Very High**)        | **Present Bias with Strong Tech Subsidies**              | High short-term bias; requires strong subsidies to accelerate the transition, but significant investment in clean tech still takes place. |
 
