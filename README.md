@@ -9,6 +9,7 @@ EDIAM builds on the foundational work of integrated assessment modeling  while e
 
 - Molina-Pérez, E., Keenan, J. M., & Lempert, R. J. (2020). A dynamic exploratory model for climate policy design under uncertainty. Environmental Modelling & Software, 131, 104778.
 - Acemoglu, D., Aghion, P., Bursztyn, L., & Hemous, D. (2012). The Environment and Directed Technical Change. American Economic Review, 102(1), 131–166.
+- Also, see more information related to the model in the following repository: https://github.com/emolinaperez/Ediam_vFrontiers/blob/Master/Main/ClimateCalibration.r
 
 Experiment Description
 This experiment explores three distinct climate policy pathways, each characterized by different assumptions about two key parameters:
