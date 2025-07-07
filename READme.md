@@ -61,8 +61,7 @@ In Scenario 18240, both regions maintain high levels of R&D subsidies well into 
 - The South, which typically lags in clean tech, receives sufficient support to scale up.
 - The North maintains subsidies even with high `ρ`, showing that myopic preferences can still yield environmental benefits if complemented with the right tools.
 
-By contrast, in Scenario 14893, R&D support is limited or mistimed—highlighting the dangers of relying on normative values without concrete economic levers.
-
+By contrast, in Scenario 14893, R&D support is limited or mistimed, highlighting the dangers of relying on normative values without concrete economic levers.
 
 ## 6. Conclusions and Reflections
 
