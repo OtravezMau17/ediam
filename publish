@@ -26,44 +26,42 @@ The three scenarios modeled are summarized below:
 
 ## 2. Clean Energy Struggles Without Sufficient Support
 
-![Clean vs Dirty Output](CleanvsDirtyOutput.png)
+![Clean vs Dirty Output](ediam/output/plots/CleanvsDirtyOutput.png)
 
 In all scenarios, **dirty energy dominates clean energy output**, but the trajectory diverges significantly depending on the policy design:
 
 - **Scenario 14893 (Intergenerational Solidarity)** sees a slight decline in clean energy output over time.
 - **Scenario 18240 (Myopic with Strong Subsidies)** shows a continuous and rapid rise in clean energy production.
 
-This confirms what Acemoglu et al. (2012) emphasize: **clean sectors need substantial and persistent R&D subsidies**. Relying on good intentions or long-term welfare metrics alone does not spur innovation or displace entrenched fossil fuel sectors.
+This confirms what Acemoglu et al. (2012) emphasize: clean sectors need substantial and persistent R&D subsidies. Relying on good intentions or long-term welfare metrics alone does not spur innovation or displace entrenched fossil fuel sectors.
 
 ---
 
 ## 3. Emissions Tell the Real Story
 
-![CO2 Concentration](CO2Concentration.png)
+![CO₂ Concentration over Time](ediam/output/plots/CO2Concentration.png)
 
-Perhaps the most surprising result is this: the **scenario with the strongest intergenerational concern results in the highest CO₂ concentrations** over time.
+Perhaps the most surprising result is this: the scenario with the strongest intergenerational concern results in the highest CO₂ concentrations over time.
 
 Why? Without strong technology policies, valuing the future doesn’t translate into sufficient action. In EDIAM, mitigation depends on R&D effectiveness, not just on preferences. Scenario 14893 delays tech deployment, despite its long-term focus, which leads to sustained emissions.
 
-By contrast, **Scenario 18240**, despite its high short-termism (high `ρ`), curbs emissions more effectively due to aggressive technological policy. It aligns with Acemoglu’s proposition that "**a clean transition requires targeted policy distortions**" to correct for the market’s underinvestment in innovation.
+By contrast, Scenario 18240, despite its high short-termism (high `ρ`), curbs emissions more effectively due to aggressive technological policy. It aligns with Acemoglu’s proposition that "a clean transition requires targeted policy distortions" to correct for the market’s underinvestment in innovation.
 
 ---
 
 ## 4. Profits Still Favor the Dirty Sector
 
-![Total Profits](TotalProfits.png)
+![Total Profits](ediam/output/plots/TotalProfits.png)
 
-Across all scenarios, total profits remain **higher in the dirty energy sector**, especially in the North. This reflects the model's assumption that fossil fuel technologies are mature and economically efficient.
+Across all scenarios, total profits remain higher in the dirty energy sector, especially in the North. This reflects the model's assumption that fossil fuel technologies are mature and economically efficient.
 
-However, the gap narrows in **Scenario 18240**, suggesting that **with strong enough subsidies**, clean technologies can become competitive. Yet, without such support, as in Scenario 14893, clean energy remains a marginal activity.
+However, the gap narrows in Scenario 18240, suggesting that **with strong enough subsidies**, clean technologies can become competitive. Yet, without such support, as in Scenario 14893, clean energy remains a marginal activity.
 
 ---
 
 ## 5. Policy Design Matters: R&D Subsidies in Action
 
-![RD Subsidies](RD%20Subsidy.png)
-
-In Scenario 18240, both regions maintain **high levels of R&D subsidies** well into the future. This financial commitment is the key to the scenario’s success:
+In Scenario 18240, both regions maintain high levels of R&D subsidies well into the future. This financial commitment is the key to the scenario’s success:
 
 - The **South**, which typically lags in clean tech, receives sufficient support to scale up.
 - The **North** maintains subsidies even with high `ρ`, showing that myopic preferences can still yield environmental benefits if complemented with the right tools.
@@ -74,7 +72,7 @@ By contrast, in Scenario 14893, R&D support is limited or mistimed—highlightin
 
 ## 6. Conclusions and Reflections
 
-Our simulations confirm a central but often overlooked idea: **good intentions are not enough**. Prioritizing the future, as in intergenerational solidarity, only yields results **if matched with credible technological and fiscal strategies**.
+These simulations confirm a central but often overlooked idea: **good intentions are not enough**. Prioritizing the future, as in intergenerational solidarity, only yields results if matched with credible technological and fiscal strategies.
 
 Acemoglu et al. (2012) warn against relying solely on carbon pricing or moral appeals. Instead, **technology policy should be the cornerstone** of climate action. Our results with EDIAM show that **even under high myopia**, strong R&D subsidies can substantially curb emissions and bridge the clean technology gap between North and South.
 
@@ -83,7 +81,7 @@ Acemoglu et al. (2012) warn against relying solely on carbon pricing or moral ap
 - Political feasibility of high subsidies, especially in developing economies, remains untested.
 - Climate damages are modeled in a simplified way; future work could incorporate tipping points or climate shocks.
 
-Still, the policy implication is clear: **climate outcomes depend more on what we do than why we do it**.
+Still, the policy implication is clear: climate outcomes depend more on what we do than why we do it.
 
 ---
 
