@@ -23,6 +23,4 @@ This experiment explores three distinct climate policy pathways, each characteri
 | 18240  | 0.015 (**High**)         | 10 (**Very High**)        | **Present Bias with Strong Tech Subsidies**              | High short-term bias; requires strong subsidies to accelerate the transition, but significant investment in clean tech still takes place. |
 
 -----------------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| 14893  | 0.001 (**Very low**)     | 3 (**Moderate**)         | **Intergenerational Solidarity with Moderate Transition** | Prioritizes long-term welfare, but implements only moderate technological progress mechanisms.         |
-| 14877  | 0.009 (**Moderate**)     | 6.51 (**High**)          | **Pragmatic Cooperation with Efficient Transition** | Balances present and future gains, backed by efficient technology to enable sustainable growth.        |
-| 18240  | 0.015 (**High**)         | 10 (**Very High**)       | **Myopic Policy with Strong Subsidies**            | Prioritizes present gains, but uses aggressive R&D subsidies to drive rapid clean tech deployment.     |
+
