@@ -6,7 +6,7 @@ Conventional wisdom suggests that solving climate change requires prioritizing t
 
 Using the Exploratory Dynamic Integrated Assessment Model (EDIAM), I simulated three climate policy scenarios to explore the interplay between intertemporal preferences and technological subsidies. Surprisingly, the scenario most aligned with intergenerational solidarity resulted in the highest long-term CO₂ concentrations . In contrast, scenarios featuring strong subsidies for clean technologies, even with moderate to high levels of short-termism, performed better in reducing emissions.
 
-This blog dives into these findings and shows why, echoing Daron Acemoglu’s work, R&D support for clean energy must be both ambitious and well-targeted. Solidarity with future generations is important, but without concrete investment in innovation, it's not sufficient.
+This blog dives into these findings and shows why, echoing Daron Acemoglu’s work, R&D support for clean energy must be both ambitious and well-targeted. Solidarity with future generations is important, but without concrete investment in innoxvation, it's not sufficient.
 
 ---
 
@@ -25,8 +25,7 @@ The three scenarios modeled are summarized below:
 ---
 
 ## 2. Clean Energy Struggles Without Sufficient Support
-
-![Clean vs Dirty Output](CleanvsDirtyOutput.png)
+![Clean vs Dirty Output](../output/plots/CleanvsDirtyOutput.png)
 
 In all scenarios, **dirty energy dominates clean energy output**, but the trajectory diverges significantly depending on the policy design:
 
@@ -39,7 +38,7 @@ This confirms what Acemoglu et al. (2012) emphasize: clean sectors need substant
 
 ## 3. Emissions Tell the Real Story
 
-![CO₂ Concentration over Time](ediam/output/plots/CO2Concentration.png)
+![CO₂ Concentration over Time](../output/plots/CO2Concentration.png)
 
 Perhaps the most surprising result is this: the scenario with the strongest intergenerational concern results in the highest CO₂ concentrations over time.
 
@@ -51,7 +50,7 @@ By contrast, Scenario 18240, despite its high short-termism (high `ρ`), curbs e
 
 ## 4. Profits Still Favor the Dirty Sector
 
-![Total Profits](ediam/output/plots/TotalProfits.png)
+![Total Profits](../output/plots/TotalProfits.png)
 
 Across all scenarios, total profits remain higher in the dirty energy sector, especially in the North. This reflects the model's assumption that fossil fuel technologies are mature and economically efficient.
 
