@@ -26,7 +26,7 @@ The three scenarios modeled are summarized below:
 
 ## 2. Clean Energy Struggles Without Sufficient Support
 
-![Clean vs Dirty Output](ediam/output/plots/CleanvsDirtyOutput.png)
+![Clean vs Dirty Output](CleanvsDirtyOutput.png)
 
 In all scenarios, **dirty energy dominates clean energy output**, but the trajectory diverges significantly depending on the policy design:
 
