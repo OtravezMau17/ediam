@@ -10,7 +10,6 @@ Using the Exploratory Dynamic Integrated Assessment Model (EDIAM), I simulated t
 
 This blog dives into these findings and shows why, echoing Daron Acemoglu’s work, R&D support for clean energy must be both ambitious and well-targeted. Solidarity with future generations is important, but without concrete investment in innovation, it's not sufficient.
 
----
 
 ## 1. The Model and the Scenario Design
 
@@ -24,7 +23,6 @@ The three scenarios modeled are summarized below:
 | 14877  | 0.009 (**Moderate**)     | 6.51 (**High**)          | **Pragmatic Cooperation with Efficient Transition** | Balances present and future gains, backed by efficient clean technology, easily substitued.        |
 | 18240  | 0.015 (**High**)         | 10 (**Very High**)       | **Myopic Policy with Strong Subsidies**            | Prioritizes present gains, but uses aggressive R&D subsidies to drive rapid clean tech deployment.     |
 
----
 
 ## 2. Clean Energy Struggles Without Sufficient Support
 ![Clean vs Dirty Output](output/plots/CleanvsDirtyOutput.png)
@@ -36,7 +34,6 @@ In all scenarios, dirty energy dominates clean energy output, but the trajectory
 
 This confirms what Acemoglu et al. (2012) emphasize: clean sectors need substantial and persistent R&D subsidies. Relying on good intentions or long-term welfare metrics alone does not spur innovation or displace entrenched fossil fuel sectors.
 
----
 
 ## 3. Emissions Tell the Real Story
 
@@ -48,8 +45,6 @@ Why? Without strong technology policies, valuing the future doesn’t translate 
 
 By contrast, Scenario 18240, despite its high short-termism (high `ρ`), curbs emissions more effectively due to aggressive technological policy. It aligns with Acemoglu’s proposition that "a clean transition requires targeted policy distortions" to correct for the market’s underinvestment in innovation.
 
----
-
 ## 4. Profits Still Favor the Dirty Sector
 
 ![Total Profits](output/plots/TotalProfits.png)
@@ -58,7 +53,6 @@ Across all scenarios, total profits remain higher in the dirty energy sector, es
 
 However, the gap narrows in Scenario 18240, suggesting that*with strong enough subsidies, clean technologies can become competitive. Yet, without such support, as in Scenario 14893, clean energy remains a marginal activity.
 
----
 
 ## 5. Policy Design Matters: R&D Subsidies in Action
 
@@ -69,7 +63,6 @@ In Scenario 18240, both regions maintain high levels of R&D subsidies well into 
 
 By contrast, in Scenario 14893, R&D support is limited or mistimed—highlighting the dangers of relying on normative values without concrete economic levers.
 
----
 
 ## 6. Conclusions and Reflections
 
@@ -84,7 +77,6 @@ That being said, this excercise has several limitations:
 
 Still, the policy implication is clear: climate outcomes depend more on what we do than why we do it.
 
----
 
 ## References
 
