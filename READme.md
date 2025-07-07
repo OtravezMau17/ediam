@@ -79,8 +79,8 @@ Still, the policy implication is clear: climate outcomes depend more on what we 
 
 ## References
 
-- Acemoglu, D., Aghion, P., Bursztyn, L., & Hemous, D. (2012). *The Environment and Directed Technical Change*. American Economic Review, 102(1), 131–166. https://doi.org/10.1257/aer.102.1.131
-- Molina-Perez, E. (2022). *Robust Climate Policy under Deep Uncertainty: An Application of Exploratory Modeling and Analysis*. Master's thesis, TU Delft. https://doi.org/10.4233/uuid:f72a0ea6-c271-4552-bf0c-5e1db4c4f1e4
+- Acemoglu, D., Aghion, P., Bursztyn, L., & Hemous, D. (2012). *The Environment and Directed Technical Change*. American Economic Review, 102(1), 131–166. 
+- Molina-Perez, E. (2022). *Robust Climate Policy under Deep Uncertainty: An Application of Exploratory Modeling and Analysis*. Master's thesis, TU Delft. 
 - This work has been supported partially by OpenAI ChatGPT, specially by shaping instructions and guiding through git intricacies. The chat history is available here: https://chatgpt.com/share/686b3568-783c-8008-b38b-da46f492f6aa
 
 
